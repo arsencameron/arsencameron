@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an VibeTune (AI-based song recommender)<br>👯 I’m looking to collaborate on Mobile Applications<br>🌱 I’m currently learning Kubernetes Engineering<br>💬 Ask me about anything <br>⚡ Fun fact: I love boxing and MMA
+🔭 I’m currently working on CASS Website<br>👯 I’m looking to collaborate on Mobile Applications<br>🌱 I’m currently learning Kubernetes Engineering<br>💬 Ask me about anything <br>⚡ Fun fact: I love boxing and MMA
 
 
 ## 🌐 Socials:
