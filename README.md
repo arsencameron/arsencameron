@@ -1,7 +1,3 @@
-# 💫 About Me:
-<br>🌱 My most recent interest is Agentic AI<br>💬 Ask me about anything <br>⚡ Fun fact: My favorite TV show is 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsen-cameron-3a279b297) 
 https://arsencameron.com/
