@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pulse<br><br>🌱 My most recent interest is Agentic AI<br>💬 Ask me about anything <br>⚡ Fun fact: My favorite TV show is 
+<br>🌱 My most recent interest is Agentic AI<br>💬 Ask me about anything <br>⚡ Fun fact: My favorite TV show is 
 
 
 ## 🌐 Socials:
